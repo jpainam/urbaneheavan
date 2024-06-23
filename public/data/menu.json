@@ -1,0 +1,103 @@
+[
+  {
+    "id": "m1",
+    "text": "Home",
+    "link": "#",
+    "dropdown": [
+      {
+        "id": "h1",
+        "text": "Home Page 01",
+        "link": "/"
+      },
+      {
+        "id": "h2",
+        "text": "Home Page 02",
+        "link": "/index-2"
+      }
+    ]
+  },
+  {
+    "id": "m2",
+    "text": "Pages",
+    "link": "#",
+    "dropdown": [
+      {
+        "id": "p1",
+        "text": "About Us",
+        "link": "/about"
+      },
+      {
+        "id": "p2",
+        "text": "Team",
+        "link": "/team"
+      },
+      {
+        "id": "p3",
+        "text": "Helpful FAQ",
+        "link": "/faq"
+      },
+      {
+        "id": "p4",
+        "text": "Pricing",
+        "link": "/Price"
+      }
+    ]
+  },
+  {
+    "id": "m3",
+    "text": "Services",
+    "link": "#",
+    "dropdown": [
+      {
+        "id": "s1",
+        "text": "Services",
+        "link": "/services"
+      },
+      {
+        "id": "s2",
+        "text": "Service Details",
+        "link": "/service-details"
+      }
+    ]
+  },
+  {
+    "id": "m4",
+    "text": "Cases",
+    "link": "#",
+    "dropdown": [
+      {
+        "id": "c1",
+        "text": "Cases",
+        "link": "/cases"
+      },
+      {
+        "id": "c2",
+        "text": "Case Details",
+        "link": "/case-details"
+      }
+    ]
+  },
+  {
+    "id": "m5",
+    "text": "Blogs",
+    "link": "#",
+    "dropdown": [
+      {
+        "id": "b1",
+        "text": "Blogs",
+        "link": "/blog"
+      },
+      {
+        "id": "b2",
+        "text": "Blog Details",
+        "link": "/blog-details"
+      }
+    ]
+  },
+  {
+    "id": "m6",
+    "text": "Contact Us",
+    "link": "/contact",
+    "dropdown": []
+  }
+]

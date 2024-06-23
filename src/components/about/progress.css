@@ -1,0 +1,7 @@
+.circle_progress_box svg {
+  width: 122px;
+}
+.circle_progress_box svg > text {
+  font-weight: 500;
+  line-height: 1;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rp1",
+    "img": "./assets/img/blog/recent_post_1.jpg",
+    "published": "March 12, 2023",
+    "tag": "Company",
+    "title": "Job market cooling, workers still have power",
+    "heading": ""
+  },
+  {
+    "id": "rp2",
+    "img": "./assets/img/blog/recent_post_2.jpg",
+    "published": "March 12, 2023",
+    "tag": "Taxation",
+    "title": "High inflation is hitting holiday travel plans",
+    "heading": ""
+  },
+  {
+    "id": "rp3",
+    "img": "./assets/img/blog/recent_post_3.jpg",
+    "published": "March 12, 2023",
+    "tag": "Accounting",
+    "title": "The Compound Growth Rate Of Mutual Fund Schemes",
+    "heading": ""
+  }
+]

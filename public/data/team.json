@@ -1,0 +1,44 @@
+[
+  {
+    "id": "t1",
+    "name": "Debra Harris",
+    "rank": "Tax Advisor",
+    "intro": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur",
+    "img": "./assets/img/team/1.jpg"
+  },
+  {
+    "id": "t2",
+    "name": "D.A Fanlink",
+    "rank": "Tax Advisor",
+    "intro": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur",
+    "img": "./assets/img/team/2.jpg"
+  },
+  {
+    "id": "t3",
+    "name": "Rio Ferdinend",
+    "rank": "Tax Advisor",
+    "intro": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur",
+    "img": "./assets/img/team/3.jpg"
+  },
+  {
+    "id": "t4",
+    "name": "Loraine R. Redy",
+    "rank": "Tax Advisor",
+    "intro": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur",
+    "img": "./assets/img/team/4.jpg"
+  },
+  {
+    "id": "t5",
+    "name": "Carlos L. Martin",
+    "rank": "Tax Advisor",
+    "intro": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur",
+    "img": "./assets/img/team/5.jpg"
+  },
+  {
+    "id": "t6",
+    "name": "John Acampora",
+    "rank": "Tax Advisor",
+    "intro": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur",
+    "img": "./assets/img/team/6.jpg"
+  }
+]

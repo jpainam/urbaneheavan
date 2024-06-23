@@ -1,0 +1,17 @@
+[
+  {
+    "id": "s1",
+    "embed": "https://www.youtube.com/embed/vNiRZWVNK7M",
+    "img": "./assets/img/slider/slide-1.jpg"
+  },
+  {
+    "id": "s2",
+    "embed": "https://www.youtube.com/embed/vNiRZWVNK7M",
+    "img": "./assets/img/slider/slide-2.jpg"
+  },
+  {
+    "id": "s3",
+    "embed": "https://www.youtube.com/embed/vNiRZWVNK7M",
+    "img": "./assets/img/slider/slide-3.jpg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "plan 1",
+    "price": "44.9",
+    "tag": "Basic",
+    "title": "Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat",
+    "facilities": [
+      "Free Consultation",
+      "Discount Service",
+      "Future Planning",
+      "24/7 Full Support"
+    ]
+  },
+  {
+    "id": "plan 2",
+    "price": "54.9",
+    "tag": "Professional",
+    "title": "Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat",
+    "facilities": [
+      "Free Consultation",
+      "Discount Service",
+      "Future Planning",
+      "24/7 Full Support"
+    ]
+  },
+  {
+    "id": "plan 3",
+    "price": "64.9",
+    "tag": "Enterprise",
+    "title": "Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu fugiat",
+    "facilities": [
+      "Free Consultation",
+      "Discount Service",
+      "Future Planning",
+      "24/7 Full Support"
+    ]
+  }
+]

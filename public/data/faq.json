@@ -1,0 +1,26 @@
+[
+  {
+    "id": "heading1",
+    "closeId": "collapse1",
+    "ques": "What Is Tax Advisor Services?",
+    "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore in fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"
+  },
+  {
+    "id": "heading2",
+    "closeId": "collapse2",
+    "ques": "How Many Service We Provide ?",
+    "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore in fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"
+  },
+  {
+    "id": "heading3",
+    "closeId": "collapse3",
+    "ques": "What Are Your Terms and Conditions?",
+    "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore in fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"
+  },
+  {
+    "id": "heading4",
+    "closeId": "collapse4",
+    "ques": "What Kinds of Payment Do You Accept?",
+    "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore in fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"
+  }
+]

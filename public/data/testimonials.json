@@ -1,0 +1,57 @@
+[
+  {
+    "id": "t2",
+    "name": "Ryan Gigs",
+    "comment": "Nemo enim ipsam voluptatem quia voluptas aut odit aut fugit sed quia consequuntur magni eos voluptatem sequi nesciunts Neque porro quisquam est, qui dolorem dolor",
+    "rank": "Tax Officer",
+    "rating": "3.4",
+    "thumb": "./assets/img/testimonial/1_thumb.jpg",
+    "img": "./assets/img/testimonial/1_big.jpg"
+  },
+
+  {
+    "id": "t1",
+    "name": "Monica Julian",
+    "comment": "Nemo enim ipsam voluptatem quia voluptas aut odit aut fugit sed quia consequuntur magni eos voluptatem sequi nesciunts Neque porro quisquam est, qui dolorem dolor",
+    "rank": "Designation",
+    "rating": "3.4",
+    "thumb": "./assets/img/testimonial/2_thumb.jpg",
+    "img": "./assets/img/testimonial/2_big.jpg"
+  },
+  {
+    "id": "t3",
+    "name": "Nicholas Marcho",
+    "comment": "Nemo enim ipsam voluptatem quia voluptas aut odit aut fugit sed quia consequuntur magni eos voluptatem sequi nesciunts Neque porro quisquam est, qui dolorem dolor",
+    "rank": "Manager",
+    "rating": "3.4",
+    "thumb": "./assets/img/testimonial/4_thumb.jpg",
+    "img": "./assets/img/testimonial/2_big.jpg"
+  },
+  {
+    "id": "t4",
+    "name": "Shawn Beltran",
+    "comment": "Nemo enim ipsam voluptatem quia voluptas aut odit aut fugit sed quia consequuntur magni eos voluptatem sequi nesciunts Neque porro quisquam est, qui dolorem dolor",
+    "rank": "Entrepreneur",
+    "rating": "3.4",
+    "thumb": "./assets/img/testimonial/1_thumb.jpg",
+    "img": "./assets/img/testimonial/1_big.jpg"
+  },
+  {
+    "id": "t5",
+    "name": "Marko Jhon",
+    "comment": "Nemo enim ipsam voluptatem quia voluptas aut odit aut fugit sed quia consequuntur magni eos voluptatem sequi nesciunts Neque porro quisquam est, qui dolorem dolor",
+    "rank": "Accountant",
+    "rating": "3.4",
+    "thumb": "./assets/img/testimonial/3_thumb.jpg",
+    "img": "./assets/img/testimonial/2_big.jpg"
+  },
+  {
+    "id": "t6",
+    "name": "Shawn Beltran",
+    "comment": "Nemo enim ipsam voluptatem quia voluptas aut odit aut fugit sed quia consequuntur magni eos voluptatem sequi nesciunts Neque porro quisquam est, qui dolorem dolor",
+    "rank": "Entrepreneur",
+    "rating": "3.4",
+    "thumb": "./assets/img/testimonial/1_thumb.jpg",
+    "img": "./assets/img/testimonial/1_big.jpg"
+  }
+]

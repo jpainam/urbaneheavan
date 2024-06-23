@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cm1",
+    "img": "./assets/img/blog/comment-1.jpg",
+    "name": "Narelle Pamuk",
+    "time": "March 12, 2023 - 9:44 am",
+    "comment": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu occaecat cupidatat non proident, sunt in culpa qui officia deserunt"
+  },
+  {
+    "id": "cm2",
+    "img": "./assets/img/blog/comment-2.jpg",
+    "name": "Nicolas Marko",
+    "time": "March 12, 2023 - 9:44 am",
+    "comment": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu occaecat cupidatat non proident, sunt in culpa qui officia deserunt"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "c1",
+    "name": "Short-Range Tax Planning",
+    "location": "2R Edward Ave",
+    "date": "25 March 2023",
+    "topic": "There are many variations of passages Lorem Ipsum available,",
+    "img": "./assets/img/case-study/1.jpg",
+    "client": "Taxzen Glints Company"
+  },
+  {
+    "id": "c2",
+    "name": "Finance Consulting",
+    "location": "2R Edward Ave",
+    "date": "25 March 2023",
+    "topic": "There are many variations of passages Lorem Ipsum available,",
+    "img": "./assets/img/case-study/2.jpg",
+    "client": "Taxzen Glints Company"
+  },
+  {
+    "id": "c3",
+    "name": "Purposive Tax Planning",
+    "location": "2R Edward Ave",
+    "date": "25 March 2023",
+    "topic": "There are many variations of passages Lorem Ipsum available,",
+    "img": "./assets/img/project/project-2.jpg",
+    "client": "Taxzen Glints Company"
+  },
+  {
+    "id": "c4",
+    "name": "Permissive Tax Planning",
+    "location": "2R Edward Ave",
+    "date": "25 March 2023",
+    "topic": "There are many variations of passages Lorem Ipsum available,",
+    "img": "./assets/img/project/project-3.jpg",
+    "client": "Taxzen Glints Company"
+  },
+  {
+    "id": "c5",
+    "name": "PRetirement Strategy",
+    "location": "2R Edward Ave",
+    "date": "25 March 2023",
+    "topic": "There are many variations of passages Lorem Ipsum available,",
+    "img": "./assets/img/project/project-4.jpg",
+    "client": "Taxzen Glints Company"
+  },
+  {
+    "id": "c6",
+    "name": "Planning Expenditures",
+    "location": "2R Edward Ave",
+    "date": "25 March 2023",
+    "topic": "There are many variations of passages Lorem Ipsum available,",
+    "img": "./assets/img/project/project-5.jpg",
+    "client": "Taxzen Glints Company"
+  }
+]

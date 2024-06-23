@@ -1,0 +1,18 @@
+.check {
+  height: 90px;
+  background: #ffffff;
+  z-index: 98;
+  width: 100%;
+  position: relative;
+}
+.check::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: -70px;
+  width: 360px;
+  height: 100%;
+  background: #ffb966;
+  z-index: 99;
+  transform: skewX(-24deg);
+}

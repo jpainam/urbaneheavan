@@ -1,0 +1,18 @@
+[
+  {
+    "id": "op1",
+    "option": "US.English"
+  },
+  {
+    "id": "op2",
+    "option": "UK.English"
+  },
+  {
+    "id": "op3",
+    "option": "French"
+  },
+  {
+    "id": "op4",
+    "option": "Italian"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "s01",
+    "topic": "Insurance Tax",
+    "title": {
+      "t1": "There are many variations of passages of Lorem Ipsum",
+      "t2": "available, but the majority"
+    },
+    "img": "./assets/img/service/service-1.jpg"
+  },
+  {
+    "id": "s02",
+    "topic": "Audit & Assurancy",
+    "title": {
+      "t1": "There are many variations of passages of Lorem Ipsum",
+      "t2": "available, but the majority"
+    },
+    "img": "./assets/img/service/service-2.jpg"
+  },
+  {
+    "id": "s03",
+    "topic": "Strategic Planning",
+    "title": {
+      "t1": "There are many variations of passages of Lorem Ipsum",
+      "t2": "available, but the majority"
+    },
+    "img": "./assets/img/service/service-3.jpg"
+  },
+  {
+    "id": "s04",
+    "topic": "Financial Planning",
+    "title": {
+      "t1": "There are many variations of passages of Lorem Ipsum",
+      "t2": "available, but the majority"
+    },
+    "img": "./assets/img/service/service-4.jpg"
+  },
+  {
+    "id": "s05",
+    "topic": "Project Management",
+    "title": {
+      "t1": "There are many variations of passages of Lorem Ipsum",
+      "t2": "available, but the majority"
+    },
+    "img": "./assets/img/service/service-5.jpg"
+  }
+]
