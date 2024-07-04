@@ -56,7 +56,7 @@ const HeaderTop = ({ type }) => {
               <div className="col-xl-4 col-lg-3 col-md-3 col-12 text-center">
                 <div className="contact-info">
                   <a href="tel:+000(123)556989">
-                    <span>Call</span>: +000(123)556989
+                    <span>Call</span>: +1(585) 415-3441
                   </a>
                 </div>
               </div>

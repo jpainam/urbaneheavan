@@ -32,8 +32,8 @@ const HeroArea = () => {
         >
           <h3>Your Trusted Tax Advisor.</h3>
           <h1>
-            Trustworthy Tax <br />
-            Advice
+            Urbane Haven <br />
+            Realty
           </h1>
           <p>
             Duis aute irure dolor in reprehenderit in voluptate velit esse

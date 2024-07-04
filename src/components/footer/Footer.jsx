@@ -16,13 +16,14 @@ const Footer = () => {
               <div className="footer-widget">
                 <div className="logo">
                   <Link className="navbar-brand" to="/">
-                    <img src="/assets/img/logo.png" alt="" />
+                    <img src="/assets/img/old-logo.png" alt="" />
                   </Link>
                 </div>
                 <p className="company-desc">
-                  Nam libero tempore, cum soluta nobis est eligendi optio cumque
-                  nihil impedit minus id quod maxime placeat facere assumenda
-                  est omnis dolor repellendus.
+                  We are a real estate solutions and investment firm that
+                  specializes in helping homeowners get rid of problem houses
+                  fast. We are investors and problem solvers who can buy your
+                  house fast with a fair all cash offer.
                 </p>
                 <div className="support-info">
                   <div className="support-icon">

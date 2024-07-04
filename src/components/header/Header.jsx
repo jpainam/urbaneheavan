@@ -22,7 +22,7 @@ const Header = ({ className, type }) => {
               <div className="header-inner-box">
                 <div className="logo">
                   <Link className="navbar-brand" to="/">
-                    <img src="/assets/img/logo.png" alt="" />
+                    <img height={65} src="/assets/img/logo2.png" alt="" />
                   </Link>
                 </div>
 
