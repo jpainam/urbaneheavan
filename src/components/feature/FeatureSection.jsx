@@ -23,13 +23,13 @@ const FeatureSection = ({ className }) => {
           >
             <div className="feature-item-wrap">
               <div className="feature-icon">
-                <i className="flaticon-quality"></i>
+                <i className="flaticon-customer-service"></i>
               </div>
               <div className="feature-content">
-                <h4>Quality Services</h4>
+                <h4>Contact Us</h4>
                 <p>
-                  Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                  odit aut fugit magni
+                  We research the details of your home and start crafting a
+                  great offer for you.
                 </p>
               </div>
             </div>
@@ -43,10 +43,10 @@ const FeatureSection = ({ className }) => {
                 <i className="flaticon-group"></i>
               </div>
               <div className="feature-content">
-                <h4>Professional Team</h4>
+                <h4>Get Your Offer</h4>
                 <p>
-                  Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                  odit aut fugit magni
+                  We present you with a fair cash offer with no obligation and
+                  no fees.
                 </p>
               </div>
             </div>
@@ -57,13 +57,13 @@ const FeatureSection = ({ className }) => {
           >
             <div className="feature-item-wrap">
               <div className="feature-icon">
-                <i className="flaticon-customer-service"></i>
+                <i className="flaticon-quality"></i>
               </div>
               <div className="feature-content">
-                <h4>24/7 Full Support</h4>
+                <h4>Get Paid</h4>
                 <p>
-                  Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                  odit aut fugit magni
+                  Get the cash you need now. You do NOT have to wait 6-12 months
+                  to get your house sold.
                 </p>
               </div>
             </div>

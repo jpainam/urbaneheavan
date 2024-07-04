@@ -35,10 +35,10 @@ const ServiceSection = ({ className }) => {
                 <h2>Loose And Experienced Tax Preparation</h2>
               </div>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority suffered alteration in some form, by injected
-                humour, or randomised words which don&apos;t look even slightly
-                believable.
+                Once we get your info, we're usually able to make you a fair
+                all-cash offer within 24 hours. From there, we can close as
+                quickly as 7 days... or on your schedule (sometimes we can have
+                a check in your hand the very same day!).
               </p>
               <div className="service-bg">
                 <img src="/assets/img/service/service-bg.png" alt="" />

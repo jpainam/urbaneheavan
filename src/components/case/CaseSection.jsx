@@ -20,10 +20,7 @@ const CaseSection = () => {
           <div className="col-xl-7 col-lg-7">
             <div className="section-title">
               <h6>Case Studies</h6>
-              <h2>
-                Delivering our clients more project clarity, greater insight,
-                and less chaos.
-              </h2>
+              <h2>We Buy Properties In Any Condition.</h2>
             </div>
           </div>
         </div>

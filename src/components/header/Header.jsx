@@ -168,7 +168,8 @@ const Header = ({ className, type }) => {
         </div>
         {className === "light-bg-1" || type === "index-2" ? null : (
           <div className="header_right_bg">
-            <img src="/assets/img/top_right_bg.png" alt="" />
+            {/* <img src="/assets/img/top_right_bg.png" alt="" /> */}
+            <img src="/assets/img/686370611.jpg" alt="" />
           </div>
         )}
       </div>

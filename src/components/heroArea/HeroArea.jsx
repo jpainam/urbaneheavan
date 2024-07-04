@@ -30,15 +30,15 @@ const HeroArea = () => {
           className={`hero-area-content wow fadeInUp animated`}
           data-wow-delay="200ms"
         >
-          <h3>Your Trusted Tax Advisor.</h3>
+          <h3>Buy Your Dream Home.</h3>
           <h1>
             Urbane Haven <br />
             Realty
           </h1>
           <p>
-            Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint sunt in culpa
-            qui officia deserunt <Link to="/about">Discover More</Link>
+            We are a wholesale buyer and seller of homes. Sell Your House, Buy a
+            Home or Rent-to-Own. ​No one has more ways to get people into a home
+            of their own. <Link to="/about">Discover More</Link>
           </p>
         </div>
         {sliders?.length > 0 && (
@@ -59,10 +59,10 @@ const HeroArea = () => {
                     className="slider-bg bg-cover"
                     data-background={slide?.img}
                   >
-                    <div className="overlay"></div>
+                    {/* <div className="overlay"></div> */}
                   </div>
 
-                  <div className="play-btn">
+                  {/* <div className="play-btn">
                     <div
                       className="video-play-btn"
                       onClick={() => {
@@ -72,7 +72,7 @@ const HeroArea = () => {
                     >
                       Play
                     </div>
-                  </div>
+                  </div> */}
                 </SwiperSlide>
               ))}
           </Swiper>
