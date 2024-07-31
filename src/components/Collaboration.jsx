@@ -15,8 +15,8 @@ const Collaboration = ({ type }) => {
             <div className="section-title">
               <p>Let&apos;s Collaboration</p>
               <h2>
-                This Could Be The Start Of Something Special Let&apos;s Work
-                Together!
+                Excellent! We love talking with people to see how we can help
+                you reach your goals!
               </h2>
             </div>
             <Link to="/contact" className="main-btn">

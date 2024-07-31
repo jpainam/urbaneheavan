@@ -32,9 +32,11 @@ const ContactForm = () => {
                   <h2>Have Questions? Get in Touch!</h2>
                 </div>
                 <p>
-                  Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                  odit fugit, sed quia consequuntur magni dolores eos qui
-                  ratione
+                  Just give us a ring at the phone number below or shoot us an
+                  email through the form. We'll get back to you within 48 hours.
+                  If you need us quicker, make sure to call as we're able to
+                  answer phone calls more quickly than we're able to return
+                  emails.
                 </p>
                 <div className="contact-details">
                   <div className="single-contact-info">
