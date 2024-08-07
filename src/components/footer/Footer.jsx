@@ -1,6 +1,6 @@
-import CircularProgress from "../CircularProgress";
-import useScrollingProgress from "../../hooks/useScrollingProgress";
 import { Link } from "react-router-dom";
+import useScrollingProgress from "../../hooks/useScrollingProgress";
+import CircularProgress from "../CircularProgress";
 const Footer = () => {
   const progress = useScrollingProgress();
 
@@ -48,7 +48,9 @@ const Footer = () => {
                       <ul>
                         <li>
                           <i className="las la-check-circle"></i>
-                          <Link to="/service-details">Insurance Tax</Link>
+                          <Link to="/service-details">
+                            You'll Get A Fair Offer
+                          </Link>
                         </li>
                         <li>
                           <i className="las la-check-circle"></i>

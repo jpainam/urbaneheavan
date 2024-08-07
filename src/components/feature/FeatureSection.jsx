@@ -8,9 +8,9 @@ const FeatureSection = ({ className }) => {
           <div className="col-xl-12 text-center">
             <div className="section-title">
               <h2>
-                We Have Than More{" "}
+                We Have More Than More{" "}
                 <Link to="/about">25 Years of Experience</Link> <br />
-                in Tax Advisor & Financial Consulting <br />
+                in House <br />
                 Services
               </h2>
             </div>

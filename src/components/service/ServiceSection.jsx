@@ -32,7 +32,7 @@ const ServiceSection = ({ className }) => {
             <div className="service-content-wrap">
               <div className="section-title">
                 <h6>WHAT WE PROVIDE</h6>
-                <h2>Loose And Experienced Tax Preparation</h2>
+                <h2>Sell Your House Fast In Upstate New York</h2>
               </div>
               <p>
                 Once we get your info, we're usually able to make you a fair

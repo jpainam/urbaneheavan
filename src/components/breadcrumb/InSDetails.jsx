@@ -11,7 +11,7 @@ const InSDetails = () => {
         <div className="row justify-content-center">
           <div className="col-xl-6 col-lg-6 col-md-6 col-12 text-center">
             <div className="section-title">
-              <p>Insurance Tax</p>
+              <p>You'll Get A Fair Offer </p>
               <h2>We Provide Quality Services.</h2>
             </div>
           </div>
@@ -25,7 +25,7 @@ const InSDetails = () => {
                 alt=""
               />
               <div className="bg-tag">
-                <h2>Insurance Tax</h2>
+                <h2>You'll Get A Fair Offer</h2>
               </div>
             </div>
           </div>

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import Modal from "../heroArea/Modal";
 import { Link } from "react-router-dom";
+import Modal from "../heroArea/Modal";
 
 const CTA = () => {
   const [showModal, setShowModal] = useState(false);
@@ -22,18 +22,17 @@ const CTA = () => {
           <div className="container">
             <div className="offset-xl-1 col-xl-7 offset-lg-1 col-lg-7 offset-md-1 col-md-7">
               <div className="section-title">
-                <h6>ABOUT OUR TAXVI</h6>
+                <h6>ABOUT OUR OFFER</h6>
                 <h2 className="text-white">
-                  Solve All Your Tax Problems Under One Room
+                  You Choose The Closing Date. We Pay All Costs!
                 </h2>
               </div>
             </div>
             <div className="offset-xl-5 col-xl-6">
               <p className="text-white">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form, by
-                injected humour, or randomised words look even slightly
-                believable. If you are going to use a passage
+                We Buy Houses Anywhere In Upstate and surrounding counties in
+                New York, And At Any Price. Check Out How Our Process Works.
+                We're Ready To Give You A Fair Offer For Your House.
               </p>
             </div>
 

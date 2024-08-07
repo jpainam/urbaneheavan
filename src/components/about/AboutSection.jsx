@@ -23,7 +23,7 @@ const AboutSection = () => {
               data-background="/assets/img/about/about-1.jpg"
             >
               <div className="about-tag-title">
-                <h4>We Have Than 25 Years of Experience</h4>
+                <h4>We Have More Than 25 Years of Experience</h4>
               </div>
             </div>
           </div>
