@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 import { Link, useOutletContext } from "react-router-dom";
-import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper";
 import "swiper/css";
 import "swiper/css/pagination";
+import { Swiper, SwiperSlide } from "swiper/react";
 //component
 import Modal from "./Modal";
 
@@ -25,7 +25,7 @@ const HeroArea = () => {
   }, [sliders]);
   return (
     <div className={`hero-area light-bg-2 ${scrolled ? "pt-90" : ""}`}>
-      <div className="container">
+      <div className="container light-bg-2">
         <div
           className={`hero-area-content wow fadeInUp animated`}
           data-wow-delay="200ms"
@@ -37,7 +37,7 @@ const HeroArea = () => {
           </h1>
           <p>
             We are a wholesale buyer and seller of homes. Sell Your House, Buy a
-            Home or Rent-to-Own. ​No one has more ways to get people into a home
+            Home or Rent-to-Own. No one has more ways to get people into a home
             of their own. <Link to="/about">Discover More</Link>
           </p>
         </div>

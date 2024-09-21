@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import MobileMenu from "./MobileMenu";
-import HeaderTop from "./HeaderTop";
 import { Link, useOutletContext } from "react-router-dom";
+import HeaderTop from "./HeaderTop";
+import MobileMenu from "./MobileMenu";
 
 import "./header.css";
 import "./mobileMenu.css";
@@ -49,18 +49,10 @@ const Header = ({ className, type }) => {
                     >
                       <ul className="navbar-nav m-auto">
                         <li className="nav-item">
-                          <a className="nav-link active" href="#">
+                          <a className="nav-link active" href="/">
                             Home
                             <span className="sub-nav-toggler"> </span>
                           </a>
-                          <ul className="sub-menu">
-                            <li>
-                              <Link to="/">Home-1</Link>
-                            </li>
-                            <li>
-                              <Link to="/index-2">Home-2</Link>
-                            </li>
-                          </ul>
                         </li>
                         <li className="nav-item">
                           <a className="nav-link" href="#">
